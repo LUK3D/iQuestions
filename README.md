@@ -16,3 +16,7 @@ This is a Fully Functional App that uses GetX State Management Pacakge and Get S
 <img  width="400px" style="margin-right:20px;" src="screenshots\2022-09-01-13-04-22.png" />
 
 </div>
+
+## Support the project
+
+To support the project, you can fork, add new features and create a pull request 😊
